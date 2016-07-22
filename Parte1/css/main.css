@@ -1,0 +1,22 @@
+/* Inserta tu CSS aqui */
+body{
+	margin: 0;
+	padding: 0;
+}
+.box-one{
+	width: 400px;
+	height: 400px;
+	background-color: #ed462f;
+}
+.box-two{
+  width: 200px;
+  height: 200px;
+  background-color: #752e80;
+  position: absolute;
+  margin: 100px;
+}
+.box-three{
+	width: 100px;
+  height: 100px;
+  background-color: #fff835;
+}
